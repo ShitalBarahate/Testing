@@ -4,6 +4,8 @@ public class GitDemo
 
 public static void main(String[] args) 
 {
+	intx;
+	String y;
 	System.out.println("Hello....Pattern demo");
 	
 		
@@ -14,6 +16,7 @@ public static void main(String[] args)
 				System.out.print("*");
 			}
 		System.out.println();
+			
 		}
 	}
 }
