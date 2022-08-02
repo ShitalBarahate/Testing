@@ -5,7 +5,8 @@ public class GitDemo
 public static void main(String[] args) 
 {
 	System.out.println("Hello....Pattern demo");
-	
+	int i;
+	String j;
 		
 		for(int i=1; i<=5; i++)
 		{
@@ -13,7 +14,8 @@ public static void main(String[] args)
 			{
 				System.out.print("*");
 			}
-		System.out.println();
+		System.out.println("change by punam");
+			
 		}
 	}
 }
